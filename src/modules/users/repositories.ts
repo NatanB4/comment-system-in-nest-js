@@ -1,6 +1,6 @@
 import { User } from './user.model';
 
-export class UserRepository {
+export class UserRepositories {
   async createUser(createUserDto): Promise<User> {
     return User.create(createUserDto);
   }
