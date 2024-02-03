@@ -1,0 +1,27 @@
+{
+    "development": {
+      "username": "cristiano",
+      "password": "sua_senha_aqui",
+      "database": "comment-dev",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "test": {
+      "username": "cristiano",
+      "password": "sua_senha_aqui",
+      "database": "comment-test",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    },
+    "production": {
+      "username": "cristiano",
+      "password": "sua_senha_aqui",
+      "database": "comment-prod",
+      "host": "localhost",
+      "port": 5432,
+      "dialect": "postgres"
+    }
+  }
+  
